@@ -1,0 +1,8 @@
+.jihu {
+    font: bold 10em sans-serif;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
